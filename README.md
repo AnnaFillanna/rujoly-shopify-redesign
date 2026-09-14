@@ -73,8 +73,11 @@ Das Projekt hat mir insbesondere praktische Erfahrung mit einer bestehenden komm
 Das Projekt wurde für einen realen Kunden umgesetzt und direkt im bestehenden Shopify-Shop realisiert.
 
 ## Screenshots
+## Screenshots
 
-Screenshots des fertigen Projekts werden hier ergänzt.
+### Einblicke in das fertige Projekt
+
+
 
 ---
 
